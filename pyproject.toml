@@ -1,0 +1,16 @@
+[project]
+name = "local-ai-anonymizer"
+version = "0.1.0"
+description = "Pseudonymize sensitive text with a local model before it goes to a cloud AI, then re-identify the answer locally."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = ["cryptography>=41"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+laia = "anonymizer.cli:main"
+
+[tool.setuptools]
+packages = ["anonymizer"]

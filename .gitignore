@@ -1,0 +1,16 @@
+# Mapping tables are Level 1 data. Never commit them.
+*.map.json
+map-*.json
+maps/
+# Working outputs: sanitized text, prompts, responses
+out/
+# Real data must never enter this repository
+real_data/
+private/
+*.real.txt
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# Run logs
+*.log

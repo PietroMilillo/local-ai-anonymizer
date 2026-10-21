@@ -1,0 +1,2956 @@
+[
+ {
+  "doc": "advising_00",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "MCALLISTER, SIOBHAN",
+    "type": "PERSON",
+    "case": "all_caps_header",
+    "leaked": false
+   },
+   {
+    "value": "April 2, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Siobhan McAllister",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "1828004",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "siobhan.mcallister@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Siobhan",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Clear Lake",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Shiv",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Ferreira-Haas",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "(713) 555-0109",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "McAllister",
+    "type": "PERSON",
+    "case": "possessive",
+    "leaked": false
+   },
+   {
+    "value": "February 8, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "McAlliste",
+    "type": "PERSON",
+    "case": "misspelling",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 62.648176193237305,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_01",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Ingrid Solberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "January 8, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "2734034",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "ingrid.solberg@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Ingrid",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Baytown",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Inga",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Marchetti",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "(713) 555-0128",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Solber",
+    "type": "PERSON",
+    "case": "misspelling",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 26.516510009765625,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_02",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "SOLBERG, INGRID",
+    "type": "PERSON",
+    "case": "all_caps_header",
+    "leaked": false
+   },
+   {
+    "value": "October 4, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Ingrid Solberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "2133900",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "ingrid.solberg@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Ingrid",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Sugar Land",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Inga",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Ferreira-Haas",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "(713) 555-0173",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 20.082882165908813,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_03",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "WHITFIELD, GRANT",
+    "type": "PERSON",
+    "case": "all_caps_header",
+    "leaked": false
+   },
+   {
+    "value": "March 23, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Grant Whitfield",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": true
+   },
+   {
+    "value": "2629966",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "grant.whitfield@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Grant",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": true
+   },
+   {
+    "value": "Brazoria County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Etxeberria",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "832.555.0159",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Whitfiel",
+    "type": "PERSON",
+    "case": "misspelling",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 26.374915838241577,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_04",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "ASANTE-BOATENG, KWABENA",
+    "type": "PERSON",
+    "case": "all_caps_header",
+    "leaked": false
+   },
+   {
+    "value": "February 17, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Kwabena Asante-Boateng",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "2835296",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "kwabena.asante-boateng@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Kwabena",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Kobby",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Lone Star Remote Sensing Co.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Achterberg",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "832.555.0193",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Asante-Boateng",
+    "type": "PERSON",
+    "case": "possessive",
+    "leaked": false
+   },
+   {
+    "value": "October 5, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 28.002219915390015,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_05",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Ingrid Solberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "December 19, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "2401350",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "ingrid.solberg@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Ingrid",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Brazoria County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Inga",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Lone Star Remote Sensing Co.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Marchetti",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "(713) 555-0197",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Solberg",
+    "type": "PERSON",
+    "case": "possessive",
+    "leaked": false
+   },
+   {
+    "value": "February 9, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Solber",
+    "type": "PERSON",
+    "case": "misspelling",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 27.452196836471558,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_06",
+  "blocked": true,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Oluwaseun Adeyemi",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "October 1, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "2533352",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "oluwaseun.adeyemi@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oluwaseun",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Brazoria County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Seun",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Lone Star Remote Sensing Co.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Marchetti",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "832.555.0182",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Adeyemi",
+    "type": "PERSON",
+    "case": "possessive",
+    "leaked": false
+   },
+   {
+    "value": "February 16, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Adeyem",
+    "type": "PERSON",
+    "case": "misspelling",
+    "leaked": true
+   }
+  ],
+  "false_positives": [],
+  "seconds": 27.960979223251343,
+  "n_blocks": 1
+ },
+ {
+  "doc": "advising_07",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Kwabena Asante-Boateng",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "November 18, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "2548460",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "kwabena.asante-boateng@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Kwabena",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Kobby",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Bayou Structural Analytics Inc.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Ferreira-Haas",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "713-555-0150",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 26.371556758880615,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_08",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "OKAFOR, WILL",
+    "type": "PERSON",
+    "case": "all_caps_header",
+    "leaked": false
+   },
+   {
+    "value": "February 6, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Will Okafor",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "2481421",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "will.okafor@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Will",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Baytown",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Szymanski",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "+1 281 555 0145",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Okafor",
+    "type": "PERSON",
+    "case": "possessive",
+    "leaked": false
+   },
+   {
+    "value": "April 1, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Okafo",
+    "type": "PERSON",
+    "case": "misspelling",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 25.709227800369263,
+  "n_blocks": 0
+ },
+ {
+  "doc": "advising_09",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Mateo Castellanos",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "March 23, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "1591251",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "mateo.castellanos@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Mateo",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Teo",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Szymanski",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "(713) 555-0118",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Castellanos",
+    "type": "PERSON",
+    "case": "possessive",
+    "leaked": false
+   },
+   {
+    "value": "November 13, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Castellano",
+    "type": "PERSON",
+    "case": "misspelling",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 38.75698685646057,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_00",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Venkataraman, Priyanka",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "pvenkataraman7@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Desmond Achterberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Venkataraman",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "1399737",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Achterberg",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "February 7, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Mariana Okonkwo",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "pvenkataraman7",
+    "type": "ID_NUMBER",
+    "case": "username",
+    "leaked": false
+   },
+   {
+    "value": "Priya",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 32.10088920593262,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_01",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "McAllister, Siobhan",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "smcallister2@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Evelyn Marchetti",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "McAllister",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "2188631",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Marchetti",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "March 18, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Jonathan Reyes",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "smcallister2",
+    "type": "ID_NUMBER",
+    "case": "username",
+    "leaked": false
+   },
+   {
+    "value": "S. McAllister",
+    "type": "PERSON",
+    "case": "initial",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 36.9715211391449,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_02",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Reyes, Jonathan",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "jreyes4@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Samuel Oyelaran",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Reyes",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "1311532",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oyelaran",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "September 12, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Ingrid Solberg",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "Jonathan Reyes",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 31.924174070358276,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_03",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Venkataraman, Priyanka",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "pvenkataraman8@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Samuel Oyelaran",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Venkataraman",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "2007461",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oyelaran",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "December 10, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Grant Whitfield",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "pvenkataraman8",
+    "type": "ID_NUMBER",
+    "case": "username",
+    "leaked": false
+   },
+   {
+    "value": "Priya",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 28.727407932281494,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_04",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "McAllister, Siobhan",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "smcallister8@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Hannah Szymanski",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "McAllister",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "2082831",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Szymanski",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "January 7, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Mateo Castellanos",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "S. McAllister",
+    "type": "PERSON",
+    "case": "initial",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "disability office"
+  ],
+  "seconds": 33.85210704803467,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_05",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Zhou, Xiaoling",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "xzhou9@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Evelyn Marchetti",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Zhou",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "2348294",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Marchetti",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "February 23, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Siobhan McAllister",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "X. Zhou",
+    "type": "PERSON",
+    "case": "initial",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 33.78803300857544,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_06",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Castellanos, Mateo",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "mcastellanos4@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Rohan Iyer-Bennett",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Castellanos",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "1691357",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Iyer-Bennett",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "April 20, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Will Okafor",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "mateo castellanos",
+    "type": "PERSON",
+    "case": "lowercase",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 32.19040107727051,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_07",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Volkonsky, Dmitri",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "dvolkonsky4@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Camila Etxeberria",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Volkonsky",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "2085567",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Etxeberria",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "December 12, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Abigail Thornbury",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "Dima",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 31.389159202575684,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_08",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Al-Rashidi, Fatima",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "falrashidi5@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Desmond Achterberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Al-Rashidi",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "2452323",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Achterberg",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "October 15, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Abigail Thornbury",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "F. Al-Rashidi",
+    "type": "PERSON",
+    "case": "initial",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 23.521459102630615,
+  "n_blocks": 0
+ },
+ {
+  "doc": "appeal_09",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Thi Lan, Nguyen",
+    "type": "PERSON",
+    "case": "surname_first",
+    "leaked": false
+   },
+   {
+    "value": "nthilan4@student.example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Samuel Oyelaran",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Thi Lan",
+    "type": "PERSON",
+    "case": "name_in_subject",
+    "leaked": false
+   },
+   {
+    "value": "1475730",
+    "type": "ID_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oyelaran",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "December 7, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Priyanka Venkataraman",
+    "type": "PERSON",
+    "case": "third_party",
+    "leaked": false
+   },
+   {
+    "value": "nthilan4",
+    "type": "ID_NUMBER",
+    "case": "username",
+    "leaked": false
+   },
+   {
+    "value": "Nguyen Thi Lan",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 33.65622305870056,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_00",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Desmond Achterberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K6636",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599918",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "71389",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Jonathan Reyes",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "April 16, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Jon",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Katy",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": true
+   },
+   {
+    "value": "Iyer-Bennett",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Lone Star Remote Sensing Co.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "7209 Ashby Street",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "+1 281 555 0159",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "achterberg@example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 33.85928702354431,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_01",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Samuel Oyelaran",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K3602",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599274",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "72081",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Rafael Quintanilla",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "December 26, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Rafa",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Baytown",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Etxeberria",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "2494 Telephone Rd",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 26.56422710418701,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_02",
+  "blocked": true,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Rohan Iyer-Bennett",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K9989",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599661",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "72146",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Grant Whitfield",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "February 17, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Grant",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": false
+   },
+   {
+    "value": "Baytown",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oyelaran",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "2381 Kirby Dr",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 27.932591915130615,
+  "n_blocks": 3
+ },
+ {
+  "doc": "budget_03",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Tobias Lindqvist",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K5126",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599317",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "74799",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Abigail Thornbury",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "October 9, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Abby",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Brazoria County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Marchetti",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Bayou Structural Analytics Inc.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "6965 Wroxton Rd",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "832.555.0158",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "lindqvist@example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 32.782883167266846,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_04",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Camila Etxeberria",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K9219",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599233",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "78713",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Hope Delacroix",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": true
+   },
+   {
+    "value": "January 28, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Hope",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": true
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Achterberg",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Gulf Coast Survey Partners",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "3100 Telephone Rd",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "713-555-0122",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "etxeberria@example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 27.72705578804016,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_05",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Desmond Achterberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K2971",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599669",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "71011",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Xiaoling Zhou",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "December 26, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Ling",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Clear Lake",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": true
+   },
+   {
+    "value": "Szymanski",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Rice University",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "1838 Telephone Rd",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "713-555-0135",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "achterberg@example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 28.150718927383423,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_06",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Samuel Oyelaran",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K8408",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599675",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "70456",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Mariana Okonkwo",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "April 23, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Mari",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Sugar Land",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Iyer-Bennett",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "7511 Telephone Rd",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 32.186766147613525,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_07",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Tobias Lindqvist",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K9572",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599997",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "74253",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Grant Whitfield",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": true
+   },
+   {
+    "value": "March 14, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Grant",
+    "type": "PERSON",
+    "case": "first_name_alone",
+    "leaked": true
+   },
+   {
+    "value": "Pearland",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Etxeberria",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Bayou Structural Analytics Inc.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "6528 Kirby Dr",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "713-555-0154",
+    "type": "PHONE",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "lindqvist@example.edu",
+    "type": "EMAIL",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Houston, TX"
+  ],
+  "seconds": 38.527360916137695,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_08",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Tobias Lindqvist",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K5960",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599902",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "72004",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oluwaseun Adeyemi",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "September 5, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Seun",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Etxeberria",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Gulf Coast Survey Partners",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "3697 Ashby Street",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Houston, TX",
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 30.947282075881958,
+  "n_blocks": 0
+ },
+ {
+  "doc": "budget_09",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "Desmond Achterberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "80NSSC99K4665",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "G0599265",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "77070",
+    "type": "COST_CENTER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Rafael Quintanilla",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "November 7, 2027",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Rafa",
+    "type": "PERSON",
+    "case": "nickname",
+    "leaked": false
+   },
+   {
+    "value": "Sugar Land",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oyelaran",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "Bayou Structural Analytics Inc.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "5318 Bellmont Ave",
+    "type": "ADDRESS",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [
+   "Houston, TX",
+   "Office of Contracts and Grants"
+  ],
+  "seconds": 29.187374114990234,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_00",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "HM04761237099",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Rohan Iyer-Bennett",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Jonathan Reyes",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "October 17, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Grant Whitfield",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Bayou Structural Analytics Inc.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Pearland",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Reyes",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "https://data.example.edu/reyes-insar",
+    "type": "URL",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 22.901645183563232,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_01",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "80NSSC99K5351",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Samuel Oyelaran",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Dmitri Volkonsky",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "March 9, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Oluwaseun Adeyemi",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Texas A&M University",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Clear Lake",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Volkonsky",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 19.880091905593872,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_02",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "HM04767747399",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Camila Etxeberria",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Fatima Al-Rashidi",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "October 3, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Xiaoling Zhou",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Clear Lake",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Al-Rashidi",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 19.488561153411865,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_03",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "80NSSC99K2451",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Hannah Szymanski",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Oluwaseun Adeyemi",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "April 3, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Jonathan Reyes",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Adeyemi",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "https://data.example.edu/adeyemi-insar",
+    "type": "URL",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 2962.1878118515015,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_04",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "80NSSC99K1707",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Hannah Szymanski",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Ingrid Solberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "February 6, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Xiaoling Zhou",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Katy",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Solberg",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "https://data.example.edu/solberg-insar",
+    "type": "URL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "949-77-4372",
+    "type": "SSN",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 280.2500789165497,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_05",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "HM04764545799",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Desmond Achterberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Kwabena Asante-Boateng",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "January 9, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Will Okafor",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Pearland",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": true
+   },
+   {
+    "value": "Asante-Boateng",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 57.16216325759888,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_06",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "HM04762393099",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Desmond Achterberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Abigail Thornbury",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "December 18, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Fatima Al-Rashidi",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Bayou Structural Analytics Inc.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Sugar Land",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Thornbury",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 32.21994185447693,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_07",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "80NSSC99K7630",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Tobias Lindqvist",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Siobhan McAllister",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "March 1, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Xiaoling Zhou",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Lone Star Remote Sensing Co.",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Baytown",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "McAllister",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 43.64693880081177,
+  "n_blocks": 0
+ },
+ {
+  "doc": "report_08",
+  "blocked": true,
+  "warned": false,
+  "ids": [
+   {
+    "value": "HM04769788999",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Samuel Oyelaran",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Mariana Okonkwo",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "April 23, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Ingrid Solberg",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Brazos Geotech LLC",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Okonkwo",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "https://data.example.edu/okonkwo-insar",
+    "type": "URL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "910-43-6966",
+    "type": "SSN",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 42.06710910797119,
+  "n_blocks": 3
+ },
+ {
+  "doc": "report_09",
+  "blocked": false,
+  "warned": false,
+  "ids": [
+   {
+    "value": "80NSSC99K1564",
+    "type": "GRANT_NUMBER",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Rohan Iyer-Bennett",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Siobhan McAllister",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "October 6, 2026",
+    "type": "DATE",
+    "case": "quasi",
+    "leaked": false
+   },
+   {
+    "value": "Dmitri Volkonsky",
+    "type": "PERSON",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Rice University",
+    "type": "ORG",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "Galveston County",
+    "type": "LOCATION",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "McAllister",
+    "type": "PERSON",
+    "case": "surname_alone",
+    "leaked": false
+   },
+   {
+    "value": "https://data.example.edu/mcallister-insar",
+    "type": "URL",
+    "case": "direct",
+    "leaked": false
+   },
+   {
+    "value": "993-35-5066",
+    "type": "SSN",
+    "case": "direct",
+    "leaked": false
+   }
+  ],
+  "false_positives": [],
+  "seconds": 84.74781107902527,
+  "n_blocks": 0
+ }
+]

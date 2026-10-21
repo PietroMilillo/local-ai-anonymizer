@@ -1,0 +1,43 @@
+{
+ "docs": 40,
+ "errors": 0,
+ "direct_ids": 391,
+ "direct_leaked": 7,
+ "recall": 0.9820971867007673,
+ "dates_leaked": 0,
+ "dates": 48,
+ "docs_with_leak": 7,
+ "docs_blocked": 1,
+ "docs_leak_sent": 6,
+ "docs_blocked_clean": 0,
+ "fp_per_doc": 0.075,
+ "sec_per_doc": 18.531360733509064,
+ "leaked_by_type": {
+  "ADDRESS": "0/10",
+  "COST_CENTER": "0/20",
+  "EMAIL": "0/28",
+  "GRANT_NUMBER": "0/20",
+  "ID_NUMBER": "0/26",
+  "LOCATION": "5/30",
+  "ORG": "0/29",
+  "PERSON": "2/200",
+  "PHONE": "0/18",
+  "SSN": "0/4",
+  "URL": "0/6"
+ },
+ "leaked_by_case": {
+  "all_caps_header": "0/7",
+  "direct": "5/257",
+  "first_name_alone": "0/12",
+  "initial": "0/1",
+  "lowercase": "0/3",
+  "misspelling": "0/6",
+  "name_in_subject": "0/10",
+  "nickname": "2/21",
+  "possessive": "0/8",
+  "surname_alone": "0/40",
+  "surname_first": "0/10",
+  "third_party": "0/10",
+  "username": "0/6"
+ }
+}
